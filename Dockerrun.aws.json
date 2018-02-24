@@ -14,7 +14,7 @@
       "name": "ponger",
       "image": "ollyjshaw/ponger:1",
       "essential": true,
-      "memory": 128,
+      "memory": 200,
       "portMappings": [
         {
           "hostPort": 80,
