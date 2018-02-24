@@ -12,9 +12,9 @@
     },
     {
       "name": "ponger",
-      "image": "ollyjshaw/ponger",
+      "image": "ollyjshaw/ponger:1",
       "essential": true,
-      "memory": 200,
+      "memory": 400,
       "portMappings": [
         {
           "hostPort": 80,
