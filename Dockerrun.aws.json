@@ -5,6 +5,7 @@
       "name": "pinger",
       "image": "ollyjshaw/pinger:1",
       "essential": true,
+      "memory": 128,
       "links": [
         "ponger"
       ]
@@ -13,6 +14,7 @@
       "name": "ponger",
       "image": "ollyjshaw/ponger:1",
       "essential": true,
+      "memory": 200,
       "portMappings": [
         {
           "hostPort": 80,
