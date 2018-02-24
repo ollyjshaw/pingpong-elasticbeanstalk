@@ -5,7 +5,7 @@
       "name": "pinger",
       "image": "ollyjshaw/pinger:1",
       "essential": true,
-      "memory": 128,
+      "memory": 200,
       "links": [
         "ponger"
       ]
