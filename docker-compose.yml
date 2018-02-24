@@ -1,0 +1,10 @@
+version: "3"
+services:
+  pinger:
+    image: ollyjshaw/pinger
+    environment:
+      - PONGHOST=ponger
+  ponger:
+    image: ollyjshaw/ponger
+    ports:
+      - "80:8080"
