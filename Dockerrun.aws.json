@@ -12,7 +12,7 @@
     },
     {
       "name": "ponger",
-      "image": "ollyjshaw/ponger:1",
+      "image": "ollyjshaw/ponger",
       "essential": true,
       "memory": 200,
       "portMappings": [
