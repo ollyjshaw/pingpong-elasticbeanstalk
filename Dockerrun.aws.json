@@ -14,6 +14,12 @@
       "name": "ponger",
       "image": "ollyjshaw/ponger:1",
       "essential": true,
+      "environment": [
+        {
+            "name": "PONG_MESSAGE",
+            "value": "<< MUCH PIPELINE, SO AMAZE WOW!!"
+        }
+      ],
       "memory": 400,
       "portMappings": [
         {
