@@ -17,7 +17,7 @@
       "environment": [
         {
             "name": "PONG_MESSAGE",
-            "value": "<< MUCH PIPELINE, SO AMAZE WOW!!"
+            "value": "<< PONG"
         }
       ],
       "memory": 400,
