@@ -17,7 +17,7 @@
       "environment": [
         {
             "name": "PONG_MESSAGE",
-            "value": "<< PONG"
+            "value": "<< CI PIPE YAY!"
         }
       ],
       "memory": 400,
